@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/digging-list/static/css/main.52b53c02.css",
+    "main.js": "/digging-list/static/js/main.b20910d7.js",
+    "index.html": "/digging-list/index.html",
+    "main.52b53c02.css.map": "/digging-list/static/css/main.52b53c02.css.map",
+    "main.b20910d7.js.map": "/digging-list/static/js/main.b20910d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52b53c02.css",
+    "static/js/main.b20910d7.js"
+  ]
+}
